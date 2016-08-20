@@ -1,5 +1,6 @@
 # simpul-jaringan-indonesia
-Daftar simpul jaringan Infrastruktur Data Spasial Indonesia
+Daftar simpul jaringan Infrastruktur Data Spasial Indonesia.
+
 Buka daftarnya di sini: [Daftar Simpul Jaringan](/daftar-simpul-jaringan.md).
 
 ## Intro
