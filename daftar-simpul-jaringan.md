@@ -1,26 +1,27 @@
 # Daftar Alamat Simpul Jaringan IDS Indonesia
 
-## Intro
-Daftar ini memuat alamat (server maupun geoportal) dari simpul jaringan Infastruktur Data Spasial yang ada di Indonesia. Alamat yang ada pada daftar ini akan terus diupdate dengan informasi baru
-
-## Kontribusi
-Apabila server atau geoportal Anda belum tercantum pada daftar, Anda dapat membantu mengembangkan daftar ini dengan turut berkontribusi. Lihat panduannya pada bagian [kontribusi](/CONTRIBUTING.md).
-
-## Bagikan 
-Bagikan daftar ini ke media sosial Anda
-+ [Twitter](http://twitter.com/home?status=https://github.com/ppids-ugm/simpul-jaringan-indonesia/%0ADaftar%20Simpul%20Jaringan%20Indonesia)
-+ [Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/ppids-ugm/simpul-jaringan-indonesia/&p[images][0]=&p[title]=Daftar%20Simpul%20Jaringan%20Indonesia&p[summary]=)
-+ [Google Plus](https://plus.google.com/share?url=https://github.com/ppids-ugm/simpul-jaringan-indonesia/)
-+ [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/ppids-ugm/simpul-jaringan-indonesia/&title=Daftar%20Simpul%20Jaringan%20Indonesia&summary=&source=)
-
-
 ## Index
-* [Kementrian/Lembanga](#Kementrian/Lembaga)
-* [Pemerintah Daerah](#Pemerintah Daerah)
-* [Lain-lain](#Lain-lain)
-* [Luar Negeri] (#Luar Negeri)
+* [Kementerian/Lembanga](#kementerianlembaga)
+  *  [Geoportal Nasional Indonesia](#geoportal-nasional-indonesia-ina-sdi)
+  *  [BNPB](#bnpb)
+  *  [Kementerian Kelautan dan Perikanan](#kementerian-kelautan-dan-perikanan)
+  *  [Kementerian Perhubungan](#kementerian-perhubungan)
+  *  [Kementerian PU](#kementerian-pu-2-sigi-pu)
+  *  [Kementerian Kehutanan](#kementerian-kehutanan)
+  *  [Kementerian Pertanian](#kementerian-pertanian)
+  *  [Kemendagri](#kemendagri-dukcapil)
+  *  [Kemenparekraf](#kemenparekraf)
+  *  [LAPAN](#lapan)
+  *  [ESDM](#esdm)
+  *  [Kemenhub](#kemenhub)
+  *  [Kementerian PDT](#kementerian-pdt)
+  *  [BPN](#bpn)
+  *  [BMKG](#bmkg)
+* [Pemerintah Daerah](#pemerintah-daerah)
+* [Lain-lain](#lain-lain)
+* [Luar Negeri] (#luar-Negeri)
 
-## Kementrian/Lembaga
+## Kementerian/Lembaga
 
 ### Geoportal Nasional Indonesia (INA-SDI)
 * http://portal.ina-sdi.or.id/arcgis/rest/services
@@ -65,6 +66,7 @@ Bagikan daftar ini ke media sosial Anda
 ### LAPAN
 * http://116.66.201.53/ArcGIS/rest/services
 * http://geoportal.lapan.go.id:6080/arcgis/rest/services
+* http://202.43.161.180/arcgis/rest/services/
 
 ### ESDM
 * geoportal.esdm.go.id/arcgis/rest/services
@@ -82,10 +84,6 @@ Bagikan daftar ini ke media sosial Anda
 ### BPN
 * geospasial.bpn.go.id (Geonode)
 * http://inalandmap.bpn.go.id/ArcGIS/rest/services/
-
-### LAPAN
-* http://geoportal.lapan.go.id:6080/arcgis/rest/services
-* http://202.43.161.180/arcgis/rest/services/
 
 ### BMKG
 * http://gis.piku.klimat.bmkg.go.id/ArcGIS/rest/services
