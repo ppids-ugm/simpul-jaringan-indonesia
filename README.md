@@ -26,7 +26,7 @@ Bagikan daftar ini ke media sosial Anda
 ## Kontak Informasi
 Pusat Pengembangan Infrastruktur Data Spasial (PPIDS-UGM)
 Jl. Grafika No. 2 Bulaksumur, Yogyakarta 55281
-<mailto:ppids@ugm.acid>
+<mailto:ppids@ugm.ac.id>
 
 ## LISENSI
 CC 4.0. Lihat pada bagian [LICENSE](/LICENSE.md)
