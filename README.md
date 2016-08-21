@@ -4,7 +4,7 @@ Daftar simpul jaringan Infrastruktur Data Spasial Indonesia.
 **Buka daftarnya di sini**: [Daftar Simpul Jaringan](/daftar-simpul-jaringan.md).
 
 ## Intro
-Daftar ini memuat alamat (server maupun geoportal) dari simpul jaringan Infastruktur Data Spasial yang ada di Indonesia. Daftar alamat ini pada awalnya bersumber dari posting di forum GISAREA (Kumpulan REST Services Peta Indonesia) oleh Lurker. Alamat yang ada pada daftar ini akan terus diupdate dengan informasi baru, demikian juga memungkinkan kontribusi dari pihak lain yang bersedia melengkapi daftar ini.
+Daftar ini memuat alamat (server maupun geoportal) dari simpul jaringan Infastruktur Data Spasial yang ada di Indonesia. Daftar alamat ini pada awalnya bersumber dari posting [Facebook Bramantyo Mardjuki](https://www.facebook.com/notes/bramantiyo-marjuki/indonesian-arcgis-map-services-network/10150277522262458), yang kemudian diposting juga di forum GISAREA (Kumpulan REST Services Peta Indonesia) oleh Lurker. Alamat yang ada pada daftar ini akan terus diupdate dengan informasi baru, demikian juga memungkinkan kontribusi dari pihak lain yang bersedia melengkapi daftar ini.
 
 ## Dasar Hukum
 *(Peraturan Presiden no 27 Tahun 2014)* Simpul Jaringan adalah institusi yang bertanggung-jawab dalam penyelenggaraan, pengumpulan, pemeliharaan, pemutakhiran pertukaran dan penyebarluasan Data Geospasial dan Informasi Geospasial tertentu
