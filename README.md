@@ -6,6 +6,10 @@ Daftar simpul jaringan Infrastruktur Data Spasial Indonesia.
 ## Intro
 Daftar ini memuat alamat (server maupun geoportal) dari simpul jaringan Infastruktur Data Spasial yang ada di Indonesia. Daftar alamat ini pada awalnya bersumber dari posting di forum GISAREA (Kumpulan REST Services Peta Indonesia) oleh Lurker. Alamat yang ada pada daftar ini akan terus diupdate dengan informasi baru, demikian juga memungkinkan kontribusi dari pihak lain yang bersedia melengkapi daftar ini.
 
+## Dasar Hukum
+*(Peraturan Presiden no 27 Tahun 2014)* Simpul Jaringan adalah institusi yang bertanggung-jawab dalam penyelenggaraan, pengumpulan, pemeliharaan, pemutakhiran pertukaran dan penyebarluasan Data Geospasial dan Informasi Geospasial tertentu
+
+Repository ini dibuat untuk memuat daftar alamat simpul jaringan yang seringkali tidak terpublikasi dengan baik. Publikasi ini merupakan salah satu cara untuk memungkinkan akses atas data dan informasi geospasial sesuai dengan tujuan *One Map Policy*.
 
 ## Kontribusi
 Apabila server atau geoportal Anda belum tercantum pada daftar, Anda dapat membantu mengembangkan daftar ini dengan turut berkontribusi. Lihat panduannya pada bagian [kontribusi](/CONTRIBUTING.md).
@@ -17,6 +21,10 @@ Bagikan daftar ini ke media sosial Anda
 + [Google Plus](https://plus.google.com/share?url=https://github.com/ppids-ugm/simpul-jaringan-indonesia/)
 + [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/ppids-ugm/simpul-jaringan-indonesia/&title=Daftar%20Simpul%20Jaringan%20Indonesia&summary=&source=)
 
+## Kontak
+Pusat Pengembangan Infrastruktur Data Spasial (PPIDS-UGM)
+Jl. Grafika No. 2 Bulaksumur, Yogyakarta 55281
+<mailto:ppids@ugm.acid>
 
 ## LISENSI
 CC 4.0. Lihat pada bagian [LICENSE](/LICENSE.md)
