@@ -14,6 +14,8 @@ Repository ini dibuat untuk memuat daftar alamat simpul jaringan yang seringkali
 ## Kontribusi
 Apabila server atau geoportal Anda belum tercantum pada daftar, Anda dapat membantu mengembangkan daftar ini dengan turut berkontribusi. Lihat panduannya pada bagian [kontribusi](/CONTRIBUTING.md).
 
+Apabila karena satu dan lain alasan Anda tidak berkenan atas dicantumkannya portal data anda di halaman ini, silahkan sampaikan pada bagian [Issue](https://github.com/ppids-ugm/simpul-jaringan-indonesia/issues/new) dan kami akan menghapusnya dari daftar.
+
 ## Bagikan 
 Bagikan daftar ini ke media sosial Anda
 + [Twitter](http://twitter.com/home?status=https://github.com/ppids-ugm/simpul-jaringan-indonesia/%0ADaftar%20Simpul%20Jaringan%20Indonesia)
@@ -21,7 +23,7 @@ Bagikan daftar ini ke media sosial Anda
 + [Google Plus](https://plus.google.com/share?url=https://github.com/ppids-ugm/simpul-jaringan-indonesia/)
 + [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/ppids-ugm/simpul-jaringan-indonesia/&title=Daftar%20Simpul%20Jaringan%20Indonesia&summary=&source=)
 
-## Kontak
+## Kontak Informasi
 Pusat Pengembangan Infrastruktur Data Spasial (PPIDS-UGM)
 Jl. Grafika No. 2 Bulaksumur, Yogyakarta 55281
 <mailto:ppids@ugm.acid>
