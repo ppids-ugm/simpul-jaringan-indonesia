@@ -23,6 +23,7 @@
 * [Pemerintah Daerah](#pemerintah-daerah)
   *  [Bappeda DIY](#bappeda-diy)
   *  [Kabupaten Sleman](#kabupaten-sleman)
+  *  [Kabupaten Kulon Progo](#kabupaten-kulon-progo)
   *  [Sulawesi Tengah](#sulawesi-tengah)
   *  [Aceh](#aceh)
   *  [Kalimantan Selatan](#kalimantan-selatan)
@@ -134,6 +135,9 @@
 
 ### Kabupaten Sleman
 * http://gis.slemankab.go.id/geoportal/ (ESRI Geoportal)
+ 
+### Kabupaten Kulon Progo
+* http://202.162.35.202 (Geonode)
 
 ### Sulawesi Tengah
 * http://geoportal.sultengprov.go.id (Geonode)
