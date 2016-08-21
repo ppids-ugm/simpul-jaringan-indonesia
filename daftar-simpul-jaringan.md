@@ -17,15 +17,43 @@
   *  [Kementerian PDT](#kementerian-pdt)
   *  [BPN](#bpn)
   *  [BMKG](#bmkg)
+  *  [KPU](#kpu)
+  *  [BPJT-PU](#bpjt-pu)
+  *  [Dirjen Penataan Ruang PU](#dirjen-penataan-ruang-pu)
 * [Pemerintah Daerah](#pemerintah-daerah)
+  *  [Bappeda DIY](#bappeda-diy)
+  *  [Sulawesi Tengah](#sulawesi-tengah)
+  *  [Aceh](#aceh)
+  *  [Kalimantan Selatan](#kalimantan-selatan)
+  *  [Kalimantan Timur](#kalimantan-timur)
+  *  [Jawa Barat](#jawa-barat)
+  *  [Bali](#bali)
+  *  [Kab. Pidie](#pemkab-pidie)
+  *  [DKI Jakarta](#dki-jakarta)
 * [Lain-lain](#lain-lain)
+  *  [PPIDS UGM](#ppids-ft-ugm)
+  *  [WWF Indonesia](#wwf-indonesia)
+  *  [TDRMC Unsyiah Aceh](#tdmrc-unsyiah-aceh)
+  *  [WFP Indonesia](#wfp-indonesia)
+  *  [Indonesian Networks News](#indonesian-networks-news)
+  *  [Dewan Energi Nasional](#dewan-energi-nasional)
 * [Luar Negeri] (#luar-Negeri)
+  * [ESRI ArcGIS Online](#esri-arcgis-online) 
+  * [Pacific Disaster Center](#pacific-disaster-centre)
+  * [Malawi](#malawi-spatial-data-portal)
+  * [Malaysia](#malaysia)
+  * [Earth Satellite](#earth-satellite)
+  * [USGS](#usgs)
+  * [European Environment Agency](#european-environment-agency)
+  * [Watershed Assessment, Tracking & Environmental Result](#watershed-assessment-tracking--environmental-result)
+  * [Oregon State](#oregon-state)
+  * [Geocommunicator](#geocommunicator)
 
 ## Kementerian/Lembaga
 
 ### Geoportal Nasional Indonesia (INA-SDI)
 * http://portal.ina-sdi.or.id/arcgis/rest/services
-* tanahair.indonesia.go.id (ArcGIS Portal)
+* http://tanahair.indonesia.go.id (ArcGIS Portal)
 * http://geoservices.ina-sdi.or.id/ArcGIS/rest/services/
 * http://partmapservices.ina-sdi.or.id/arcgis/rest
 * http://geoservice.bakosurtanal.go.id/arcgis/rest/services
@@ -38,7 +66,7 @@
 
 ### Kementerian Kelautan dan Perikanan
 * http://www.ppk-kp3k.kkp.go.id/ArcGIS/rest/services
-* 103.7.52.65:6080/arcgis/rest/services
+* http://103.7.52.65:6080/arcgis/rest/services
 
 ### Kementerian Perhubungan
 * http://gis.dephub.go.id/ArcGIS/rest/services
@@ -69,8 +97,8 @@
 * http://202.43.161.180/arcgis/rest/services/
 
 ### ESDM
-* geoportal.esdm.go.id/arcgis/rest/services
-* gisportal.esdm.go.id (Geonode)
+* http://geoportal.esdm.go.id/arcgis/rest/services
+* http://gisportal.esdm.go.id (Geonode)
 * http://203.189.89.41:6080/arcgis/rest/services
 
 ### Kemenhub
@@ -82,7 +110,7 @@
 * http://202.51.112.89:6080/arcgis/rest/services
 
 ### BPN
-* geospasial.bpn.go.id (Geonode)
+* http://geospasial.bpn.go.id (Geonode)
 * http://inalandmap.bpn.go.id/ArcGIS/rest/services/
 
 ### BMKG
@@ -101,10 +129,10 @@
 ## Pemerintah Daerah
 
 ### Bappeda DIY
-* gis.jogjaprov.go.id (Geonode)
+* http://gis.jogjaprov.go.id (Geonode)
 
 ### Sulawesi Tengah
-* geoportal.sultengprov.go.id (Geonode)
+* http://geoportal.sultengprov.go.id (Geonode)
 
 ### Aceh
 * http://acehgis.acehprov.go.id/ (Geonode)
@@ -135,7 +163,7 @@
 ### PPIDS FT UGM
 * http://geoportal.ppids.ft.ugm.ac.id:6080/arcgis/rest/services
 * http://geoportal.ppids.ft.ugm.ac.id:4040 (Geonode)
-* http://geoportal.ppids.ft.ugm.ac.id:8085 (Deegree)
+* http://geoportal.ppids.ft.ugm.ac.id:8085 (Deegree Webservice)
 
 ### WWF Indonesia
 * http://gis.wwf.or.id/arcgis/rest/services
@@ -163,7 +191,7 @@
 * http://ags.pdc.org/ArcGIS/rest/services/
 
 ### Malawi Spatial Data Portal
-* masdap.mw (Geonode)
+* http://masdap.mw (Geonode)
 
 ### Malaysia
 * http://1malaysiamap.mygeoportal.gov.my/arcgis/rest/services
@@ -173,7 +201,8 @@
 * http://www.earthsat.com/ArcGIS/rest/services/
 
 ### USGS
-* http://rmgsc.cr.usgs.gov/ArcGIS/rest/services/ atau	http://nhss.cr.usgs.gov/arcgis/rest/services/ atau
+* http://rmgsc.cr.usgs.gov/ArcGIS/rest/services/ 
+* http://nhss.cr.usgs.gov/arcgis/rest/services/
 * http://isse.cr.usgs.gov/ArcGIS/rest/services/
 
 ### European Environment Agency
