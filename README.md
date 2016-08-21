@@ -1,4 +1,4 @@
-# simpul-jaringan-indonesia
+# Simpul Jaringan IDSN Indonesia
 Daftar simpul jaringan Infrastruktur Data Spasial Indonesia.
 
 **Buka daftarnya di sini**: [Daftar Simpul Jaringan](/daftar-simpul-jaringan.md).
@@ -14,7 +14,7 @@ Repository ini dibuat untuk memuat daftar alamat simpul jaringan yang seringkali
 ## Kontribusi
 Apabila server atau geoportal Anda belum tercantum pada daftar, Anda dapat membantu mengembangkan daftar ini dengan turut berkontribusi. Lihat panduannya pada bagian [kontribusi](/CONTRIBUTING.md).
 
-Apabila karena satu dan lain alasan Anda tidak berkenan atas dicantumkannya portal data anda di halaman ini, silahkan sampaikan pada bagian [Issue](https://github.com/ppids-ugm/simpul-jaringan-indonesia/issues/new) dan kami akan menghapusnya dari daftar.
+Apabila karena satu dan lain alasan Anda tidak berkenan atas dicantumkannya portal data anda di halaman ini atau ada ketidaksesuaian informasi, silahkan sampaikan pada bagian [Issue](https://github.com/ppids-ugm/simpul-jaringan-indonesia/issues/new) dan kami akan menghapusnya dari daftar atau memperbarui informasinya.
 
 ## Bagikan 
 Bagikan daftar ini ke media sosial Anda
