@@ -22,6 +22,7 @@
   *  [Dirjen Penataan Ruang PU](#dirjen-penataan-ruang-pu)
 * [Pemerintah Daerah](#pemerintah-daerah)
   *  [Bappeda DIY](#bappeda-diy)
+  *  [Kabupaten Sleman](#kabupaten-sleman)
   *  [Sulawesi Tengah](#sulawesi-tengah)
   *  [Aceh](#aceh)
   *  [Kalimantan Selatan](#kalimantan-selatan)
@@ -130,6 +131,9 @@
 
 ### Bappeda DIY
 * http://gis.jogjaprov.go.id (Geonode)
+
+### Kabupaten Sleman
+* http://gis.slemankab.go.id/geoportal/ (ESRI Geoportal)
 
 ### Sulawesi Tengah
 * http://geoportal.sultengprov.go.id (Geonode)
