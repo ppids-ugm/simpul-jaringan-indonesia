@@ -1,10 +1,10 @@
 # simpul-jaringan-indonesia
 Daftar simpul jaringan Infrastruktur Data Spasial Indonesia.
 
-Buka daftarnya di sini: [Daftar Simpul Jaringan](/daftar-simpul-jaringan.md).
+**Buka daftarnya di sini**: [Daftar Simpul Jaringan](/daftar-simpul-jaringan.md).
 
 ## Intro
-Daftar ini memuat alamat (server maupun geoportal) dari simpul jaringan Infastruktur Data Spasial yang ada di Indonesia. Alamat yang ada pada daftar ini akan terus diupdate dengan informasi baru
+Daftar ini memuat alamat (server maupun geoportal) dari simpul jaringan Infastruktur Data Spasial yang ada di Indonesia. Daftar alamat ini pada awalnya bersumber dari posting di forum GISAREA (Kumpulan REST Services Peta Indonesia) oleh Lurker. Alamat yang ada pada daftar ini akan terus diupdate dengan informasi baru, demikian juga memungkinkan kontribusi dari pihak lain yang bersedia melengkapi daftar ini.
 
 
 ## Kontribusi
