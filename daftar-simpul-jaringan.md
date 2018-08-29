@@ -51,9 +51,8 @@
   * [Oregon State](#oregon-state)
   * [Geocommunicator](#geocommunicator)
 
+
 ## Kementerian/Lembaga
-
-
 
 ### Geoportal Nasional Indonesia (INA-SDI)
 * http://portal.ina-sdi.or.id/arcgis/rest/services
@@ -122,7 +121,8 @@
 * http://inalandmap.bpn.go.id/ArcGIS/rest/services/
 
 ### BMKG
-* http://gis.piku.klimat.bmkg.go.id/ArcGIS/rest/services
+* ~~http://gis.piku.klimat.bmkg.go.id/ArcGIS/rest/services~~
+* gis.bmkg.go.id/arcgis/rest/services
 
 ### KPU
 * http://maps.kpu.go.id/arcgis/rest/services/
