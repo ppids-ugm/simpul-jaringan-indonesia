@@ -53,6 +53,8 @@
 
 ## Kementerian/Lembaga
 
+
+
 ### Geoportal Nasional Indonesia (INA-SDI)
 * http://portal.ina-sdi.or.id/arcgis/rest/services
 * http://tanahair.indonesia.go.id (ArcGIS Portal)
@@ -61,6 +63,9 @@
 * http://geoservice.bakosurtanal.go.id/arcgis/rest/services
 * http://geoservices.big.go.id/arcgis/rest/services
 * http://petadesa.big.go.id:6080/arcgis/rest/services/IGT_Perdesaan
+
+### KLHK
+* http://geoportal.menlhk.go.id/arcgis/rest/services/KLHK
 
 ### BNPB
 * http://geoservice.bnpb.go.id:8399/arcgis/rest/services/
@@ -111,7 +116,8 @@
 ### Kementerian PDT
 * http://202.51.112.89:6080/arcgis/rest/services
 
-### BPN
+### ATR/BPN
+* http://gistaru.atrbpn.go.id/arcgis/rest/services
 * http://geospasial.bpn.go.id (Geonode)
 * http://inalandmap.bpn.go.id/ArcGIS/rest/services/
 
