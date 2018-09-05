@@ -3,6 +3,8 @@
 ## Index
 * [Kementerian/Lembanga](#kementerianlembaga)
   *  [Geoportal Nasional Indonesia](#geoportal-nasional-indonesia-ina-sdi)
+  *  [KLHK](#klhk)
+  *  [BPS](#bps)
   *  [BNPB](#bnpb)
   *  [Kementerian Kelautan dan Perikanan](#kementerian-kelautan-dan-perikanan)
   *  [Kementerian Perhubungan](#kementerian-perhubungan)
@@ -39,7 +41,8 @@
   *  [WFP Indonesia](#wfp-indonesia)
   *  [Indonesian Networks News](#indonesian-networks-news)
   *  [Dewan Energi Nasional](#dewan-energi-nasional)
-* [Luar Negeri] (#luar-Negeri)
+  *  [TIG](#tig)
+* [Luar Negeri](#luar-Negeri)
   * [ESRI ArcGIS Online](#esri-arcgis-online) 
   * [Pacific Disaster Center](#pacific-disaster-centre)
   * [Malawi](#malawi-spatial-data-portal)
@@ -65,6 +68,9 @@
 
 ### KLHK
 * http://geoportal.menlhk.go.id/arcgis/rest/services/KLHK
+
+### BPS
+*https://sig.bps.go.id/maps/rest/services
 
 ### BNPB
 * http://geoservice.bnpb.go.id:8399/arcgis/rest/services/
@@ -122,7 +128,7 @@
 
 ### BMKG
 * ~~http://gis.piku.klimat.bmkg.go.id/ArcGIS/rest/services~~
-* gis.bmkg.go.id/arcgis/rest/services
+* http://gis.bmkg.go.id/arcgis/rest/services
 
 ### KPU
 * http://maps.kpu.go.id/arcgis/rest/services/
