@@ -73,8 +73,7 @@
 *https://sig.bps.go.id/maps/rest/services
 
 ### BNPB
-* http://geoservice.bnpb.go.id:8399/arcgis/rest/services/
-* http://geoservice2.bnpb.go.id:8399/arcgis/rest/services/
+* http://inarisk.bnpb.go.id:6080/arcgis/rest/services
 
 ### Kementerian Kelautan dan Perikanan
 * http://www.ppk-kp3k.kkp.go.id/ArcGIS/rest/services
