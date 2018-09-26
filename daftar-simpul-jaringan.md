@@ -107,6 +107,7 @@
 * http://116.66.201.53/ArcGIS/rest/services
 * http://geoportal.lapan.go.id:6080/arcgis/rest/services
 * http://202.43.161.180/arcgis/rest/services/
+* http://spbn.pusfatja.lapan.go.id (Geonode)
 
 ### ESDM
 * http://geoportal.esdm.go.id/arcgis/rest/services
