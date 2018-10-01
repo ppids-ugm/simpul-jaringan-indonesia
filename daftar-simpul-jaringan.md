@@ -99,7 +99,7 @@
 * http://202.43.161.180/arcgis/rest/services/
 
 ### ESDM
-* http://geoportal.esdm.go.id/arcgis/rest/services
+* http://geoportal.esdm.go.id/monaresia/sharing/rest
 * http://gisportal.esdm.go.id (Geonode)
 * http://203.189.89.41:6080/arcgis/rest/services
 
@@ -207,6 +207,9 @@
 
 ### Earth Satellite
 * http://www.earthsat.com/ArcGIS/rest/services/
+
+### Servir Global
+* https://gis1.servirglobal.net/arcgis/rest/services/
 
 ### USGS
 * http://rmgsc.cr.usgs.gov/ArcGIS/rest/services/ 
