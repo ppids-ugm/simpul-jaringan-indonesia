@@ -5,6 +5,7 @@
   *  [Geoportal Nasional Indonesia](#geoportal-nasional-indonesia-ina-sdi)
   *  [KLHK](#klhk)
   *  [BPS](#bps)
+  *  [Dukcapil](#dukcapil)
   *  [BNPB](#bnpb)
   *  [Kementerian Kelautan dan Perikanan](#kementerian-kelautan-dan-perikanan)
   *  [Kementerian Perhubungan](#kementerian-perhubungan)
@@ -70,7 +71,10 @@
 * http://geoportal.menlhk.go.id/arcgis/rest/services/KLHK
 
 ### BPS
-*https://sig.bps.go.id/maps/rest/services
+* https://sig.bps.go.id/maps/rest/services
+
+### Dukcapil
+* http://gis.dukcapil.kemendagri.go.id/arcgis/rest/services
 
 ### BNPB
 * http://inarisk.bnpb.go.id:6080/arcgis/rest/services
@@ -106,6 +110,7 @@
 * http://116.66.201.53/ArcGIS/rest/services
 * http://geoportal.lapan.go.id:6080/arcgis/rest/services
 * http://202.43.161.180/arcgis/rest/services/
+* http://spbn.pusfatja.lapan.go.id (Geonode)
 
 ### ESDM
 * http://geoportal.esdm.go.id/arcgis/rest/services
