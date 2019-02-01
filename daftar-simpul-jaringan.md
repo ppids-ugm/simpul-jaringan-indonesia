@@ -77,8 +77,8 @@
 * http://gis.dukcapil.kemendagri.go.id/arcgis/rest/services
 
 ### BNPB
-* http://geoservice.bnpb.go.id:8399/arcgis/rest/services/
-* http://geoservice2.bnpb.go.id:8399/arcgis/rest/services/
+* http://inarisk.bnpb.go.id:6080/arcgis/rest/services
+* http://gis.bnpb.go.id:6080/arcgis/rest/services
 
 ### Kementerian Kelautan dan Perikanan
 * http://www.ppk-kp3k.kkp.go.id/ArcGIS/rest/services
@@ -151,7 +151,7 @@
 * http://gis.jogjaprov.go.id (Geonode)
 
 ### Kabupaten Sleman
-* http://gis.slemankab.go.id/geoportal/ (ESRI Geoportal)
+* http://geoportal.slemankab.go.id/ (Geonode)
  
 ### Kabupaten Kulon Progo
 * http://202.162.35.202 (Geonode)
