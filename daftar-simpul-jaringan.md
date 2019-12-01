@@ -125,7 +125,8 @@
 * http://lumbung-geoportal.dephub.go.id:6080/arcgis/rest/services
 
 ### Kementerian PDT
-* http://202.51.112.89:6080/arcgis/rest/services
+* ~~http://202.51.112.89:6080/arcgis/rest/services~~
+* https://gis-portal.kemendesa.go.id/server/rest/services
 
 ### ATR/BPN
 * http://gistaru.atrbpn.go.id/arcgis/rest/services
