@@ -43,6 +43,7 @@
   *  [Indonesian Networks News](#indonesian-networks-news)
   *  [Dewan Energi Nasional](#dewan-energi-nasional)
   *  [TIG](#tig)
+  *  [Geografi UGM](#geografi-ugm)
 * [Luar Negeri](#luar-Negeri)
   * [ESRI ArcGIS Online](#esri-arcgis-online) 
   * [Pacific Disaster Center](#pacific-disaster-centre)
@@ -207,6 +208,9 @@
 
 ### TIG 
 * http://tig.co.id/ags/rest/services/
+
+### Geografi UGM 
+* http://geoportal.puspics.ugm.ac.id/
 
 ## Luar Negeri
 
