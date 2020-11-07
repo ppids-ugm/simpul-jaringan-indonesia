@@ -45,7 +45,7 @@
   *  [TIG](#tig)
   *  [Geografi UGM](#geografi-ugm)
 * [Luar Negeri](#luar-Negeri)
-  * [ESRI ArcGIS Online](#esri-arcgis-online) 
+  * [ESRI ArcGIS Online](#esri-arcgis-online)
   * [Pacific Disaster Center](#pacific-disaster-centre)
   * [Malawi](#malawi-spatial-data-portal)
   * [Malaysia](#malaysia)
@@ -154,9 +154,9 @@
 
 ### Kabupaten Sleman
 * http://geoportal.slemankab.go.id/ (Geonode)
- 
+
 ### Kabupaten Kulon Progo
-* http://202.162.35.202 (Geonode)
+* http://geoportal.kulonprogokab.go.id/ (Geonode)
 
 ### Sulawesi Tengah
 * http://geoportal.sultengprov.go.id (Geonode)
@@ -164,7 +164,7 @@
 ### Aceh
 * http://acehgis.acehprov.go.id/ (Geonode)
 
-### Kalimantan Selatan 
+### Kalimantan Selatan
 * http://geoportal.kalselprov.go.id:6080/arcgis/rest/services
 
 ### Kalimantan Timur
@@ -198,7 +198,7 @@
 ### TDMRC Unsyiah Aceh
 * http://tdmrc.unsyiah.ac.id:8080/ArcGIS/rest/services
 
-### WFP Indonesia 
+### WFP Indonesia
 * http://gis.wfp.or.id:6080/arcgis/rest/services
 
 ### Indonesian Networks News
@@ -207,10 +207,10 @@
 ### Dewan Energi Nasional
 * http://webgis.den.go.id/arcgis/rest/services
 
-### TIG 
+### TIG
 * http://tig.co.id/ags/rest/services/
 
-### Geografi UGM 
+### Geografi UGM
 * http://geoportal.puspics.ugm.ac.id/
 
 ## Luar Negeri
@@ -235,7 +235,7 @@
 * https://gis1.servirglobal.net/arcgis/rest/services/
 
 ### USGS
-* http://rmgsc.cr.usgs.gov/ArcGIS/rest/services/ 
+* http://rmgsc.cr.usgs.gov/ArcGIS/rest/services/
 * http://nhss.cr.usgs.gov/arcgis/rest/services/
 * http://isse.cr.usgs.gov/ArcGIS/rest/services/
 
