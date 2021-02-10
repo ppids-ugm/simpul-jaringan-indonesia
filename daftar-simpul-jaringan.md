@@ -1,28 +1,40 @@
 # Daftar Alamat Simpul Jaringan IDS Indonesia
 
 ## Index
-* [Kementerian/Lembanga](#kementerianlembaga)
-  *  [Geoportal Nasional Indonesia](#geoportal-nasional-indonesia-ina-sdi)
-  *  [KLHK](#klhk)
-  *  [BPS](#bps)
-  *  [Dukcapil](#dukcapil)
-  *  [BNPB](#bnpb)
-  *  [Kementerian Kelautan dan Perikanan](#kementerian-kelautan-dan-perikanan)
-  *  [Kementerian Perhubungan](#kementerian-perhubungan)
-  *  [Kementerian PU](#kementerian-pu-2-sigi-pu)
-  *  [Kementerian Kehutanan](#kementerian-kehutanan)
-  *  [Kementerian Pertanian](#kementerian-pertanian)
-  *  [Kemendagri](#kemendagri-dukcapil)
-  *  [Kemenparekraf](#kemenparekraf)
-  *  [LAPAN](#lapan)
-  *  [ESDM](#esdm)
-  *  [Kemenhub](#kemenhub)
-  *  [Kementerian PDT](#kementerian-pdt)
-  *  [BPN](#bpn)
-  *  [BMKG](#bmkg)
-  *  [KPU](#kpu)
-  *  [BPJT-PU](#bpjt-pu)
-  *  [Dirjen Penataan Ruang PU](#dirjen-penataan-ruang-pu)
+* [InaSDI](#inasdi)
+* [Kementerian dan Lembaga](#kementerian-dan-lembaga)
+  * [Kementerian Luar Negeri](#kementerian-luar-negeri)
+  * [Kementerian Komunikasi dan Informatika](#kementerian-komunikasi-dan-informatika)
+  * [Kementerian Dalam Negeri](#kementerian-dalam-negeri)  
+  * [Kementerian Pertahanan](#kementerian-pertahanan)  
+  * [Kepolisian Negara Republik Indonesia](#kepolisian-negara-republik-indonesia)  
+  * [Kementerian Luar Negeri](#kementerian-luar-negeri)
+  * [Kementerian Koordinator Bidang Perekonomian](#kementerian-koordinator-bidang-perekonomian)
+  * [Kementerian Perindustrian](#kementerian-perindustrian)
+  * [Kementerian Lingkungan Hidup dan Kehutanan (KLHK)](#kementerian-lingkungan-hidup-dan-Kehutanan-klhk)
+  * [Kementerian Agraria dan Tata Ruang (BPN)](#kementerian-agraria-dan-tata-ruang-bpn)
+  * [Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR)](#kementerian-pekerjaan-umum-dan-perumahan-rakyat-pupr)
+  * [Kementerian Pertanian](#kementerian-pertanian)
+  * [Kementerian Kesehatan](#kementerian-kesehatan)
+  * [Kementerian Pendidikan dan Kebudayaan](#kementerian-pendidikan-dan-kebudayaan)
+  * [Kementerian Agama](#kementerian-agama)
+  * [Kementerian Riset dan Teknologi (BRIN)](#kementerian-riset-dan-teknologi-brin)
+  * [Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi](#kementerian-desa-pembangunan-daerah-tertinggal-dan-transmigrasi)
+  * [Badan Nasional Penanggulangan Bencana (BNPB)](#badan-nasional-penanggulangan-bencana-bnpb)
+  * [Kementerian Koordinator Bidang Kemaritiman dan Investasi](#kementerian-koordinator-bidang-kemaritiman-dan-investasi)
+  * [Kementerian Energi dan Sumber Daya Mineral (ESDM)](#kementerian-energi-dan-sumber-daya-mineral-esdm)
+  * [Kementerian Perhubungan](#kementerian-perhubungan)
+  * [Kementerian Kelautan dan Perikanan](#kementerian-kelautan-dan-perikanan)
+  * [Kementerian Pariwisata dan Ekonomi Kreatif](#kementerian-pariwisata-dan-ekonomi-kreatif)
+  * [Kementerian Perencanaan Pembangunan Nasional (BAPPENAS)](#kementerian-perencanaan-pembangunan-nasional-bappenas)
+  * [Badan Narkotika Nasional (BNN)](#badan-narkotika-nasional-bnn)
+  * [Lembaga Penerbangan dan Antariksa Nasional (LAPAN)](#lembaga-penerbangan-dan-antariksa-nasional-lapan)
+  * [Badan Pusat Statistik (BPS)](#badan-pusat-statistik-bps)
+  * [Badan Informasi Geospasial (BIG)](#badan-informasi-geospasial-big)
+  * [Badan Meteorologi, Klimatologi dan Geofisika (BMKG)](#badan-meteorologi-klimatologi-dan-geofisika-bmkg)
+  * [Badan Nasional Pencarian dan Pertolongan (BASARNAS)](#badan-nasional-pencarian-dan-pertolongan-basarnas)
+  * [Badan Restorasi Gambut (BRG)](#badan-restorasi-gambut-brg)
+  * [Badan Nasional Pengelolaan Perbatasan (BNPP)](#badan-nasional-pengelolaan-perbatasan-bnpp)
 * [Pemerintah Daerah](#pemerintah-daerah)
   *  [Bappeda DIY](#bappeda-diy)
   *  [Kabupaten Sleman](#kabupaten-sleman)
@@ -57,94 +69,381 @@
   * [Geocommunicator](#geocommunicator)
 
 
-## Kementerian/Lembaga
+## InaSDI
+Geoportal PALAPA:
 
-### Geoportal Nasional Indonesia (INA-SDI)
+ArcGIS Portal:
+* https://portal.ina-sdi.or.id/portal/home/ (Indonesia Geospasial Portal)
+* https://portalksp.ina-sdi.or.id (Portal Kebijakan Satu Peta)
+* https://kugi.ina-sdi.or.id (KUGI)
+
+ArcGIS REST Services: 
 * http://portal.ina-sdi.or.id/arcgis/rest/services
-* http://tanahair.indonesia.go.id (ArcGIS Portal)
-* http://geoservices.ina-sdi.or.id/ArcGIS/rest/services/
-* http://partmapservices.ina-sdi.or.id/arcgis/rest
-* http://geoservice.bakosurtanal.go.id/arcgis/rest/services
-* http://geoservices.big.go.id/arcgis/rest/services
-* http://petadesa.big.go.id:6080/arcgis/rest/services/IGT_Perdesaan
 
-### KLHK
-* http://geoportal.menlhk.go.id/arcgis/rest/services/KLHK
 
-### BPS
-* https://sig.bps.go.id/maps/rest/services
+## Kementerian dan Lembaga
 
-### Dukcapil
-* http://gis.dukcapil.kemendagri.go.id/arcgis/rest/services
+### Kementerian Luar Negeri
+Geoportal PALAPA: 
+* http://geoportal.kemlu.go.id
 
-### BNPB
-* http://inarisk.bnpb.go.id:6080/arcgis/rest/services
-* http://gis.bnpb.go.id:6080/arcgis/rest/services
+ArcGIS Portal:
 
-### Kementerian Kelautan dan Perikanan
-* http://www.ppk-kp3k.kkp.go.id/ArcGIS/rest/services
-* http://103.7.52.65:6080/arcgis/rest/services
+ArcGIS REST Services: 
 
-### Kementerian Perhubungan
-* http://gis.dephub.go.id/ArcGIS/rest/services
-* http://gis2.dephub.go.id/ArcGIS/rest/services/
 
-### Kementerian PU 2 (SIGI-PU)
-* http://sigi.pu.go.id/arcgis/rest/services
-* http://aset.pu.go.id/arcgis/rest/services
+### Kementerian Komunikasi dan Informatika
+Geoportal PALAPA: 
+* https://geoportal.kominfo.go.id
 
-### Kementerian Kehutanan
-* http://webgis.dephut.go.id/ArcGIS/rest/services
-* http://nfms.dephut.go.id/ArcGIS/rest/services (NFMS)
+ArcGIS Portal:
+
+ArcGIS REST Services:
+
+
+### Kementerian Dalam Negeri
+Geoportal PALAPA:
+
+ArcGIS Portal:
+* https://gis.dukcapil.kemendagri.go.id/arcgis/home/ 
+
+ArcGIS REST Services:
+* https://gis.dukcapil.kemendagri.go.id/arcgis/rest/services 
+
+
+### Kementerian Pertahanan
+Geoportal PALAPA: 
+
+ArcGIS Portal:
+
+ArcGIS REST Services: 
+* https://pusinfostrahan.kemhan.go.id:6080
+
+
+### Kepolisian Negara Republik Indonesia
+Geoportal PALAPA:
+
+ArcGIS Portal:
+
+ArcGIS REST Services:
+* http://partmapservices.ina-sdi.or.id/arcgis/rest/services/POLRI 
+
+
+### Kementerian Koordinator Bidang Perekonomian
+Geoportal PALAPA: 
+* http://geoportal.satupeta.go.id
+
+ArcGIS Portal:
+
+ArcGIS REST Services: 
+
+
+### Kementerian Perindustrian
+Geoportal PALAPA: 
+* http://geoportal.kemenperin.go.id
+
+ArcGIS Portal:
+
+ArcGIS REST Services:
+
+
+### Kementerian Lingkungan Hidup dan Kehutanan (KLHK)
+ArcGIS Portal: 
+* https://dbgis.menlhk.go.id/portal/home/
+* http://webgis.menlhk.go.id:8080/nfms_simontana/home/mapview (NFMS)
+
+ArcGIS REST Services:
+* https://dbgis.menlhk.go.id/arcgis/rest/services
+
+
+### Kementerian Agraria dan Tata Ruang (BPN)
+Geoportal PALAPA:
+
+Portal: 
+* https://bhumi.atrbpn.go.id
+
+Geoserver: 
+* https://geosvc.atrbpn.go.id/geoserver/web/
+* https://bhumi.atrbpn.go.id/geoserver/web/ (Bhumi)
+
+ArcGIS Portal: 
+
+ArcGIS REST Services: 
+
+
+### Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR)
+Geoportal PALAPA:
+
+Portal:
+* http://gis.bpjt.pu.go.id
+* http://sigmetro.binamarga.pu.go.id/
+* http://infobencana.pu.go.id/
+* https://sigi.pu.go.id/disaster
+* https://infopenangananbencana.pu.go.id/
+* http://sigi.pu.go.id/katalogpu/index-new.php
+
+ArcGIS Portal: 
+* https://sigi.pu.go.id 
+* https://sigi.pu.go.id/portalpupr/home/
+* https://gisportal.binamarga.pu.go.id/arcgis/home/index.html
+* http://gis.pusjatan.pu.go.id/portal/home/index.html 
+
+ArcGIS REST Services: 
+* https://sigi.pu.go.id/portalpupr/rest/services
+* https://gisportal.binamarga.pu.go.id/arcgis/rest/services
+* http://gis.pusjatan.pu.go.id/arcgis/rest/services
+
 
 ### Kementerian Pertanian
-* http://sig.deptan.go.id/arcgis/rest/services
-* http://203.190.36.46/ArcGIS/rest/services/SIKPv2/MapServer
-* http://180.250.76.14:6080/arcgis/rest/services
+Geoportal PALAPA:
 
-### Kemendagri (DUKCAPIL)
-* http://gis.dukcapil.kemendagri.go.id:6080/arcgis/rest/services
+Portal:
+* http://sipetani.pertanian.go.id:8081/siperditan/
+* http://sig.pertanian.go.id:8081/portalsig/jagung/
+* http://sig.pertanian.go.id:8081/portalsig/bawangputih/
+* http://sig.pertanian.go.id:8081/portalsig/bawang/ 
+* http://sig.pertanian.go.id 
 
-### Kemenparekraf
-* http://arcgis.sangkuriang.co.id/arcgis/rest/services
+ArcGIS Portal: 
+* http://sig.pertanian.go.id:8081/portalsig/ 
 
-### LAPAN
-* http://116.66.201.53/ArcGIS/rest/services
-* http://geoportal.lapan.go.id:6080/arcgis/rest/services
-* http://202.43.161.180/arcgis/rest/services/
-* http://spbn.pusfatja.lapan.go.id (Geonode)
+ArcGIS REST Services:
+* https://sig01.pertanian.go.id/arcgis/rest/services 
 
-### ESDM
-* http://geoportal.esdm.go.id/monaresia/sharing/rest
-* http://gisportal.esdm.go.id (Geonode)
-* http://203.189.89.41:6080/arcgis/rest/services
 
-### Kemenhub
-* http://gis.dephub.go.id/arcgis/rest/services
-* http://gis2.dephub.go.id/arcgis/rest/services/
-* http://lumbung-geoportal.dephub.go.id:6080/arcgis/rest/services
+### Kementerian Kesehatan
+Geoportal PALAPA:
+* http://gis-geoserver.kemkes.go.id
 
-### Kementerian PDT
-* ~~http://202.51.112.89:6080/arcgis/rest/services~~
-* https://gis-portal.kemendesa.go.id/server/rest/services
+ArcGIS Portal:
 
-### ATR/BPN
-* http://gistaru.atrbpn.go.id/arcgis/rest/services
-* http://geospasial.bpn.go.id (Geonode)
-* http://inalandmap.bpn.go.id/ArcGIS/rest/services/
+ArcGIS REST Services: 
 
-### BMKG
-* ~~http://gis.piku.klimat.bmkg.go.id/ArcGIS/rest/services~~
-* http://gis.bmkg.go.id/arcgis/rest/services
 
-### KPU
-* http://maps.kpu.go.id/arcgis/rest/services/
+### Kementerian Pendidikan dan Kebudayaan
+Geoportal PALAPA:
 
-### BPJT PU
-* http://bpjt.pu.go.id:8080/geoserver/web
+Portal:
+* http://sekolah.data.kemdikbud.go.id
 
-### Dirjen Penataan Ruang PU
-* http://202.74.73.122/arcgis/rest/services
+ArcGIS Portal:
+
+ArcGIS REST Services: 
+
+
+### Kementerian Agama
+Geoportal PALAPA:
+
+Portal:
+* https://madrasah.kemenag.go.id/gis/index.php/home/akademik
+
+ArcGIS Portal:
+
+ArcGIS REST Services: 
+
+
+### Kementerian Riset dan Teknologi (BRIN)
+Geoportal PALAPA: 
+
+ArcGIS Portal:
+
+ArcGIS REST Services:
+
+
+### Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi
+Geoportal PALAPA:
+
+ArcGIS Portal:
+* https://gis-portal.kemendesa.go.id/portal/home/
+
+ArcGIS REST Services:
+* https://gis-portal.kemendesa.go.id/server/rest/services/
+
+
+### Badan Nasional Penanggulangan Bencana (BNPB)
+Geoportal PALAPA:
+
+Portal: 
+* http://inarisk.bnpb.go.id
+* http://inarisk2.bnpb.go.id/pencegahan/ 
+* http://mhews.bnpb.go.id/maps
+* https://inaware.bnpb.go.id/inaware/
+
+ArcGIS Portal: 
+* http://gis.bnpb.go.id
+* https://bnpb-inacovid19.hub.arcgis.com
+
+ArcGIS REST Services: 
+* http://service2.inarisk.bnpb.go.id:6080/arcgis/rest/services
+* http://inarisk.bnpb.go.id:6080/arcgis/rest/
+* http://gis.bnpb.go.id/server/rest/services
+
+
+### Kementerian Koordinator Bidang Kemaritiman dan Investasi
+Geoportal PALAPA: 
+* http://maritim.ina-sdi.or.id
+
+ArcGIS Portal:
+
+ArcGIS REST Services: 
+
+
+### Kementerian Energi dan Sumber Daya Mineral (ESDM)
+Geoportal PALAPA:
+
+Portal:
+* http://igis.esdm.go.id/igis/potensi/index
+* https://magma.esdm.go.id
+* https://georima.esdm.go.id
+* https://momi.minerba.esdm.go.id/gisportal/home/
+* https://momi.minerba.esdm.go.id/public/ 
+* https://geoportal.esdm.go.id/minerba/ 
+* https://geoportal.esdm.go.id/indonesia-overview/ 
+* https://geoportal.esdm.go.id/ketenagalistrikan/
+* https://geoportal.esdm.go.id/ebtke/
+* https://geoportal.esdm.go.id/geologi/ 
+* https://geoportal.esdm.go.id/kebencanaan/ 
+* https://geoportal.esdm.go.id/migas/ 
+* https://geoportal.esdm.go.id/project-strategis/ 
+
+ArcGIS Portal:
+* https://geoportal.esdm.go.id 
+
+ArcGIS REST Services: 
+* https://geoportal.esdm.go.id/gis2/rest/services
+* https://geoportal.esdm.go.id/gis3/rest/services 
+* https://geoportal.esdm.go.id/gis4/rest/services
+* https://geoportal.esdm.go.id/gis5/rest/services 
+* https://geoportal.esdm.go.id/monaresia/rest/services/ 
+* https://datamigas.esdm.go.id/arcgis/rest/services/
+* http://103.87.161.75:6080/arcgis/rest/services/ 
+* https://momi.minerba.esdm.go.id/gisserver/rest/services/ 
+* https://geoportal.esdm.go.id/monaresia/sharing/rest 
+
+
+### Kementerian Perhubungan
+Geoportal PALAPA:
+
+ArcGIS Portal: 
+* https://sigita.dephub.go.id/home/
+
+ArcGIS REST Services:
+* https://sigita.dephub.go.id/proxy/proxy.jsp?https://sigita.dephub.go.id/server/rest/services/
+
+
+### Kementerian Kelautan dan Perikanan
+Geoportal PALAPA:
+
+ArcGIS Portal: 
+* http://satupeta.kkp.go.id/gis/home/ 
+
+ArcGIS REST Services:
+* http://satupeta.kkp.go.id/gis/rest/services 
+* http://www.ppk-kp3k.kkp.go.id/ArcGIS/rest/services 
+
+
+### Kementerian Pariwisata dan Ekonomi Kreatif
+Geoportal PALAPA:
+
+ArcGIS Portal:
+* http://geoportal.kemenpar.go.id
+
+ArcGIS REST Services
+
+
+### Kementerian Perencanaan Pembangunan Nasional (BAPPENAS)
+Geoportal PALAPA:
+
+Geoportal: 
+* http://geoportal.bappenas.go.id/geoportal/index.php/viewer/#
+
+ArcGIS Portal:
+
+ArcGIS REST Services:
+* https://geoservices.bappenas.go.id:6081/arcgis/rest/services/ 
+
+
+### Badan Narkotika Nasional (BNN)
+Geoportal PALAPA:
+
+ArcGIS Portal:
+
+ArcGIS REST Services:
+* http://partmapservices.ina-sdi.or.id/arcgis/rest/services/BNN
+
+
+### Lembaga Penerbangan dan Antariksa Nasional (LAPAN)
+Geoportal PALAPA:
+
+Geonode:
+* https://spbn.pusfatja.lapan.go.id
+
+Portal: 
+* http://spacemap.lapan.go.id
+* http://spacemap.lapan.go.id/indonesia/
+
+ArcGIS Portal:
+
+ArcGIS REST Services: 
+
+
+### Badan Pusat Statistik (BPS)
+Geoportal PALAPA:
+
+ArcGIS Portal:
+* https://geoportal.bps.go.id/maps/home/
+
+ArcGIS REST Services: 
+* https://geoportal.bps.go.id/server/rest/services
+
+
+### Badan Informasi Geospasial (BIG)
+Geoportal PALAPA:
+
+ArcGIS Portal:
+* https://geoservices.big.go.id/portal/home/
+
+ArcGIS REST Services: 
+* https://geoservices.big.go.id/gis/rest/services
+
+
+### Badan Meteorologi, Klimatologi dan Geofisika (BMKG)
+Geoportal PALAPA:
+
+ArcGIS Portal:
+* https://gis.bmkg.go.id/arcgis/home/
+
+ArcGIS REST Services:
+* https://gis.bmkg.go.id/arcgis/rest/services
+
+
+### Badan Nasional Pencarian dan Pertolongan (BASARNAS)
+Geoportal PALAPA:
+
+ArcGIS Portal: 
+* http://simasda.basarnas.go.id:8088
+
+ArcGIS REST Services:
+* https://simasda.basarnas.go.id/arcgis/rest/services
+
+
+### Badan Restorasi Gambut (BRG)
+Geoportal PALAPA: 
+* http://brg.ina-sdi.or.id
+
+ArcGIS Portal:
+
+ArcGIS REST Services: 
+
+
+### Badan Nasional Pengelolaan Perbatasan (BNPP)
+Geoportal PALAPA: 
+
+ArcGIS Portal:
+* https://gis.bnpp.go.id/arcgis/apps/sites/#/home
+
+ArcGIS REST Services: 
+* https://gis.bnpp.go.id/arcgis/rest/services
 
 
 ## Pemerintah Daerah
