@@ -284,8 +284,10 @@ Geoportal PALAPA:
 * http://maritim.ina-sdi.or.id
 
 ArcGIS Portal:
+* https://gis.maritim.go.id/portal/home/
 
 ArcGIS REST Services: 
+* https://gis.maritim.go.id/server/rest/services/
 
 
 ### Kementerian Energi dan Sumber Daya Mineral (ESDM)
