@@ -156,7 +156,7 @@ ArcGIS REST Services:
 * https://dbgis.menlhk.go.id/arcgis/rest/services
 
 
-### Kementerian Agraria dan Tata Ruang (BPN)
+### Kementerian Agraria dan Tata Ruang (ATRBPN)
 Geoportal PALAPA:
 
 Portal: 
@@ -169,6 +169,7 @@ Geoserver:
 ArcGIS Portal: 
 
 ArcGIS REST Services: 
+* https://gistaru.atrbpn.go.id/arcgis/rest/services
 
 
 ### Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR)
