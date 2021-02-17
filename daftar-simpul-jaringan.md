@@ -12,7 +12,7 @@
   * [Kementerian Koordinator Bidang Perekonomian](#kementerian-koordinator-bidang-perekonomian)
   * [Kementerian Perindustrian](#kementerian-perindustrian)
   * [Kementerian Lingkungan Hidup dan Kehutanan (KLHK)](#kementerian-lingkungan-hidup-dan-Kehutanan-klhk)
-  * [Kementerian Agraria dan Tata Ruang (BPN)](#kementerian-agraria-dan-tata-ruang-bpn)
+  * [Kementerian Agraria dan Tata Ruang (ATRBPN)](#kementerian-agraria-dan-tata-ruang-atrbpn)
   * [Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR)](#kementerian-pekerjaan-umum-dan-perumahan-rakyat-pupr)
   * [Kementerian Pertanian](#kementerian-pertanian)
   * [Kementerian Kesehatan](#kementerian-kesehatan)
@@ -199,6 +199,7 @@ ArcGIS REST Services:
 Geoportal PALAPA:
 
 Portal:
+* http://sisultan.litbang.pertanian.go.id/#
 * http://sipetani.pertanian.go.id:8081/siperditan/
 * http://sig.pertanian.go.id:8081/portalsig/jagung/
 * http://sig.pertanian.go.id:8081/portalsig/bawangputih/
