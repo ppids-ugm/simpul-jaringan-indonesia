@@ -181,12 +181,16 @@ ArcGIS REST Services:
 
 
 ### Kementerian Lingkungan Hidup dan Kehutanan (KLHK)
+Geoportal:
+* https://geoportal.menlhk.go.id/webgis/index.php/en/
+
 ArcGIS Portal: 
 * https://dbgis.menlhk.go.id/portal/home/
 * http://webgis.menlhk.go.id:8080/nfms_simontana/home/mapview (NFMS)
 
 ArcGIS REST Services:
 * https://dbgis.menlhk.go.id/arcgis/rest/services
+* https://geoportal.menlhk.go.id/server/rest/services/
 
 
 ### Kementerian Agraria dan Tata Ruang (ATRBPN)
