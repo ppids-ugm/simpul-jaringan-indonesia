@@ -424,8 +424,10 @@ Portal:
 * http://spacemap.lapan.go.id/indonesia/
 
 ArcGIS Portal:
+* https://gis.pusfatja.lapan.go.id/arcgis/home/
 
 ArcGIS REST Services: 
+* https://gis.pusfatja.lapan.go.id/arcgis/rest/services
 
 
 ### Badan Pusat Statistik (BPS)
