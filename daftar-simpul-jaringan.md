@@ -37,7 +37,7 @@
   * [Badan Restorasi Gambut (BRG)](#badan-restorasi-gambut-brg)
   * [Badan Nasional Pengelolaan Perbatasan (BNPP)](#badan-nasional-pengelolaan-perbatasan-bnpp)
 * [Badan Usaha Milik Negara (BUMN)](#badan-usaha-milik-negara-bumn)
-  * [Perusahaan Listrik Negara (PLN)](#perusahaan-listrik-negara)
+  * [Perusahaan Listrik Negara (PLN)](#perusahaan-listrik-negara-pln)
 * [Pemerintah Provinsi](#pemerintah-provinsi)
   * [Aceh](#aceh)
   * [Sumatera Utara](#sumatera-utara)
