@@ -36,6 +36,8 @@
   * [Badan Nasional Pencarian dan Pertolongan (BASARNAS)](#badan-nasional-pencarian-dan-pertolongan-basarnas)
   * [Badan Restorasi Gambut (BRG)](#badan-restorasi-gambut-brg)
   * [Badan Nasional Pengelolaan Perbatasan (BNPP)](#badan-nasional-pengelolaan-perbatasan-bnpp)
+* [Badan Usaha Milik Negara (BUMN)](#badan-usaha-milik-negara-bumn)
+  * [Perusahaan Listrik Negara (PLN)](#perusahaan-listrik-negara)
 * [Pemerintah Provinsi](#pemerintah-provinsi)
   * [Aceh](#aceh)
   * [Sumatera Utara](#sumatera-utara)
@@ -487,6 +489,20 @@ ArcGIS Portal:
 
 ArcGIS REST Services: 
 * https://gis.bnpp.go.id/arcgis/rest/services
+
+
+
+## Badan Usaha Milik Negara (BUMN)
+
+### Perusahaan Listrik Negara (PLN)
+Geoportal PALAPA: 
+
+ArcGIS Portal:
+* https://maps.pln.co.id/arcgis/home/
+
+ArcGIS REST Services: 
+* https://maps.pln.co.id/arcgis/rest/services
+
 
 
 
