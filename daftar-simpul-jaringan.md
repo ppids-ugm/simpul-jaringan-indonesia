@@ -209,6 +209,7 @@ ArcGIS Portal:
 
 ArcGIS REST Services: 
 * https://gistaru.atrbpn.go.id/arcgis/rest/services
+* https://dki-siap.atrbpn.go.id/server/rest/services/
 
 
 ### Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR)
@@ -890,6 +891,9 @@ ArcGIS REST Services:
 
 
 ## Pemerintah Kabupaten
+
+### Bogor
+* https://geoportal.bogorkab.go.id/server/rest/services/
 
 ### Sleman
 * http://geoportal.slemankab.go.id/ (Geonode)
